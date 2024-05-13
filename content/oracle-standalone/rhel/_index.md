@@ -143,3 +143,13 @@ Select the "Automatically run Configuration Scrips and Select use "root" and ent
 Progress of Oracle 19c Software will begin.
 ![](12.png)
 
+##### Once the Installation has Completed, Execute the following command to verify the sqlplus version.
+
+```bash
+sqlplus -v
+```
+
+##### You will get the Following Output:
+
+![](https://i.imgur.com/EKS7e8D.png)
+![](screenshots/1.png)

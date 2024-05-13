@@ -1,11 +1,11 @@
 ---
-title: Documentation
+title: Oracle Standalone
 next: first-page
 ---
 
 This is a demo of the theme's documentation layout.
 
-## Oracle Standalone
+## Installation Variants
 
 {{< cards >}}
   {{< card link="docs" title="RHEL 7.5" icon="desktop-computer" >}}

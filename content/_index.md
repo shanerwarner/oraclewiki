@@ -16,8 +16,7 @@ toc: false
 {{< /cards >}}
 
 
-## Oracle RAC
-### Comming Soon
+## Oracle RAC (Comming Soon)
 
 {{< cards >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}

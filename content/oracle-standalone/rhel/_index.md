@@ -3,11 +3,15 @@ title: Oracle 19c Installation on RHEL.
 next: Home
 ---
 
-This is a demo of the theme's documentation layout.
+## A step-by-step process to installing Oracle 19c Software for Single Instance Database on Red Hat Enterprise Linux 7.9 (RHEL)
 
-## Installation Variants
+{{< callout type="info" >}}
+  This Guide is Production Ready.
+{{< /callout >}}
 
-{{< cards >}}
-  {{< card link="rhel" title="RHEL 7.9" icon="desktop-computer" >}}
-   {{< card link="docs" title="MIcrosoft Windows" icon="book-open" >}}
-{{< /cards >}}
+
+# Prerequisites
+
+## Install required X11 packages
+
+Install X11 packages with following command based on your operating system release and version:

@@ -39,7 +39,7 @@ You should see similar output as the following:
 
 ### Install the Dependencies
 
-Install the Following🛠️
+Install the Following
 
 ```bash
 yum install libnsl* -y
@@ -48,11 +48,13 @@ yum install libnsl* -y
 ```bash
 yum update -y
 ```
-``` bash title="To check if Development Tools are installed"
+Check if Development Tools are installed
+
+``` bash
 yum grouplist
 ```
-
-```bash title="If Development tools have not been installed"
+ If They are not installed, then execute the Following Command
+```bash
 yum group install "Development Tools"
 
 ```

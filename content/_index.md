@@ -5,7 +5,7 @@ toc: false
 
 
 
-### Learn, Work and deploy together 💖.
+### Let's Learn, Work and deploy together 💖.
 
 ## Oracle Standalone
 

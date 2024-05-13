@@ -140,6 +140,7 @@ Select the "Automatically run Configuration Scrips and Select use "root" and ent
 ![](10.png)
 
 ![](11.png)
+*A single track trail outside of Albuquerque, New Mexico.*
 Progress of Oracle 19c Software will begin.
 ![](12.png)
 

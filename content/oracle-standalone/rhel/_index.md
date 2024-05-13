@@ -1,5 +1,5 @@
 ---
-title: oracle 19c Installation on RHEL.
+title: Oracle 19c Installation on RHEL.
 next: Home
 ---
 

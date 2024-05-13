@@ -12,7 +12,7 @@ A step-by-step process to installing Oracle 19c Software for Single Instance Dat
 
 # Prerequisites
 
-## Install required X11 packages
+### Install required X11 packages
 
 Install X11 packages with following command based on your operating system release and version:
 
@@ -20,7 +20,7 @@ Install X11 packages with following command based on your operating system relea
 yum install xorg-x11-xauth -y
 ```
 
-## Configure X11 forwarding
+### Configure X11 forwarding
 
 To enable X11 Forwarding, change the "X11Forwarding" parameter using vi or nano editor to ```yes``` in the ```/etc/ssh/sshd_config``` file if either commented out or set to no.
 

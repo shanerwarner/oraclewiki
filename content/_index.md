@@ -12,9 +12,9 @@ This is the landing page.
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
 
 ## Oracle RAC
+### Comming Soon
 
 {{< cards >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}

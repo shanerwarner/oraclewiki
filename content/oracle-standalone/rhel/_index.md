@@ -24,3 +24,35 @@ yum install xorg-x11-xauth -y
 
 To enable X11 Forwarding, change the "X11Forwarding" parameter using vi or nano editor to ```yes``` in the ```/etc/ssh/sshd_config``` file if either commented out or set to no.
 
+```bash
+vi /etc/ssh/sshd_config
+```
+or 
+
+```bash
+nano /etc/ssh/sshd_config
+```
+
+You should see similar output as the following:
+
+`X11Forwarding yes`
+
+### Install the Dependencies
+
+Install the Following🛠️
+
+```bash
+yum install libnsl* -y
+```
+
+```bash
+yum update -y
+```
+``` bash title="To check if Development Tools are installed"
+yum grouplist
+```
+
+```bash title="If Development tools have not been installed"
+yum group install "Development Tools"
+
+```

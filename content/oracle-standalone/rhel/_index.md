@@ -118,4 +118,5 @@ Download the Oracle 19c Software from Oracle's Offical Website Copy it to  `$ORA
 
 ### Oracle 19c DB Software Installation Wizard will appear.
 
-![](1.png)
+![ABC](1.png)
+Select 'Setup Software Only'

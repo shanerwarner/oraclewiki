@@ -130,15 +130,16 @@ Verify Oracle Base Location and Proceed to the Next Step
 Verify Oracle Inventory Directory and Proceed to the Next Step
 ![](6.png)
 Verify the OS Groups created in the Prerequisite Step above
+Select the "Automatically run Configuration Scrips and Select use "root" and enter the root Password Below
 ![](7.png)
 
 ![](8.png)
 
 ![](9.png)
-Select the "Automatically run Configuration Scrips and Select use "root" and enter the root Password Below
+
 ![](10.png)
 
 ![](11.png)
-
+Progress of Oracle 19c Software will begin.
 ![](12.png)
 

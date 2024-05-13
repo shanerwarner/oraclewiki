@@ -118,5 +118,27 @@ Download the Oracle 19c Software from Oracle's Offical Website Copy it to  `$ORA
 
 ### Oracle 19c DB Software Installation Wizard will appear.
 
-![ABC](1.png)
+![](1.png)
 Select 'Setup Software Only'
+![](2.png)
+Select 'Single Instance Database Only'
+![](3.png)
+Select 'Enterprise Edition'
+![](4.png)
+Verify Oracle Base Location and Proceed to the Next Step
+![](5.png)
+Verify Oracle Inventory Directory and Proceed to the Next Step
+![](6.png)
+Verify the OS Groups created in the Prerequisite Step above
+![](7.png)
+
+![](8.png)
+
+![](9.png)
+Select the "Automatically run Configuration Scrips and Select use "root" and enter the root Password Below
+![](10.png)
+
+![](11.png)
+
+![](12.png)
+

@@ -15,36 +15,29 @@ A step-by-step process to installing Oracle 19c Software for Single Instance Dat
 ### Install required X11 packages
 
 Install X11 packages with following command based on your operating system release and version:
-
 ```bash
 yum install xorg-x11-xauth -y
 ```
 
 ### Configure X11 forwarding
-
 To enable X11 Forwarding, change the "X11Forwarding" parameter using vi or nano editor to ```yes``` in the ```/etc/ssh/sshd_config``` file if either commented out or set to no.
 
 ```bash
 vi /etc/ssh/sshd_config
 ```
 or 
-
 ```bash
 nano /etc/ssh/sshd_config
 ```
-
 You should see similar output as the following:
 
 `X11Forwarding yes`
 
 ### Install the Dependencies
-
 Install the Following
-
 ```bash
 yum install libnsl* -y
 ```
-
 ```bash
 yum update -y
 ```
@@ -80,8 +73,8 @@ mkdir -p /u01/app/oracle/product/19.3/db_home
 chown -R oracle:oinstall /u01
 chmod -R 775 /u01
 ```
-
-```bash title="Login with Oracle User"
+Login with Oracle User
+```bash
 su - oracle
 ```
 

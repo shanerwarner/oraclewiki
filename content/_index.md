@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: Learn, Work and deploy together 💖
 toc: false
 ---
 

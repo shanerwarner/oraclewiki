@@ -18,10 +18,10 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: Standalone
       pageRef: /docs
       weight: 1
-    - name: About
+    - name: RAC
       pageRef: /about
       weight: 2
     - name: Contact ↗

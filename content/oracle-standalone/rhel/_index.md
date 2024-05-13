@@ -3,7 +3,7 @@ title: Oracle 19c Installation on RHEL.
 next: Home
 ---
 
-#### A step-by-step process to installing Oracle 19c Software for Single Instance Database on Red Hat Enterprise Linux 7.9 (RHEL)
+A step-by-step process to installing Oracle 19c Software for Single Instance Database on Red Hat Enterprise Linux 7.9 (RHEL)
 
 {{< callout type="info" >}}
   This Guide is Production Ready.

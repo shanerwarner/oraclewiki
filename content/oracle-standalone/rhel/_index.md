@@ -101,8 +101,6 @@ Update the Bash Profile with the following:
 ```bash
 export ORACLE_BASE=/u01/app/oracle
 export ORACLE_HOME=/u01/app/oracle/product/19.3/db_home
-export CLIENT_HOME=/u01/app/oracle/product/19.3/client
-#export ORACLE_SID=CDB
 export LD_LIBRARY_PATH=\$ORACLE_HOME/lib:$CLIENT_HOME/lib:/lib:/usr/lib
 export CLASSPATH=\$ORACLE_HOME/jlib:\$ORACLE_HOME/rdbms/jlib:$CLIENT_HOME/rdbms/jlib$
 export NLS_LANG=american_america.al32utf8
@@ -113,3 +111,11 @@ export PATH=$PATH:$HOME/.local/bin:$ORACLE_HOME/bin:$CLIENT_HOME/bin
 ## oracle 19c Software Installation
 
 Download the Oracle 19c Software from Oracle's Offical Website Copy it to  `$ORACLE_HOME` location, unzip the software and run below cmd
+
+```bash
+./runInstaller
+```
+
+### Oracle 19c DB Software Installation Wizard will appear.
+
+![](1.png)

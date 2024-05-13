@@ -1,9 +1,9 @@
 ---
-title: Learn, Work and deploy together 💖
+title: Home
 toc: false
 ---
 
-This is the landing page.
+#Learn, Work and deploy together 💖.
 
 ## Oracle Standalone
 

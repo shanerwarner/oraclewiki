@@ -19,7 +19,7 @@ markup:
 menu:
   main:
     - name: Standalone
-      pageRef: /docs
+      pageRef: /oracle-standalone
       weight: 1
     - name: RAC
       pageRef: /about

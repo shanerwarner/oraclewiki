@@ -140,8 +140,7 @@ Select the "Automatically run Configuration Scrips and Select use root and enter
 ![](10.png)
 
 ![](11.png)
-*A single track trail outside of Albuquerque, New Mexico.*
-Progress of Oracle 19c Software will begin.
+*Progress of Oracle 19c Software will begin.*
 ![](12.png)
 
 ##### Once the Installation has Completed, Execute the following command to verify the sqlplus version.

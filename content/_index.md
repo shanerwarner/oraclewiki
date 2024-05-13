@@ -5,7 +5,7 @@ toc: false
 
 
 
-### Let's Learn, Work and deploy together 💖.
+### Let's Learn, Work and deploy together 🚀.
 
 {{< callout type="info" >}}
   All guides and documentation provided here are expertly curated and polished to ensure the highest quality.

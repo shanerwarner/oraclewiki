@@ -1,5 +1,5 @@
 ---
-title: Switchover to Physical Standby
+title: Manual Switchover to DR
 type: docs
 prev: /
 next: docs/folder/

@@ -6,7 +6,7 @@ next: docs/folder/
 ---
 
 
-## on PRODUCTION database --
+## on PRODUCTION database
 
 ```
 select name, open_mode, database_role, switchover_status from v$database;
@@ -26,7 +26,7 @@ NAME      OPEN_MODE            DATABASE_ROLE    SWITCHOVER_STATUS
 SFMS      READ ONLY           PHYSICAL STANDBY          	NOT ALLOWED
 
 
-## Proceed to Switchover
+# Proceed to Switchover
 
 ### on PRODUCTION Database
 
@@ -45,7 +45,7 @@ alter database commit to switchover to physical standby with session shutdown;
 
 ### Exit from SQL Prompt
 
-database altered.23:15 23-09-202223:15 23-09-202223:15 23-09-202223:15 23-09-202223:15 23-09-202223:15 23-09-202223:15 23-09-2022
+Output: **database altered.**
 
 
 ### on STANDBY Database

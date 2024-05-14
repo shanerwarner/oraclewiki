@@ -7,6 +7,6 @@ next: Home
 
 ### Oracle Documents
 
-[*SQL Tuning*](docs/sql-tuning)
+[*SQL Tuning*](sql-tuning)
 
 

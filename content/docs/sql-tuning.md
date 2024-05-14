@@ -6,9 +6,6 @@ next: docs/folder/
 ---
 
 
-# SQL QUERY TUNING
-
-
 ## 1. To check for waiting event in v$session:
 ```sql
 SELECT SID,SERIAL#,STATUS,EVENT,INST_ID FROM GV$SESSION WHERE WAIT_CLASS<>'Idle';
